@@ -21,11 +21,11 @@ Automated reconnaissance framework for cybersecurity labs.
 
 
 
-
-Input IP
+## Overview
+- Input IP
+  f  ↓
+- Run Nmap
     ↓
-Run Nmap
+- Parse XML
     ↓
-Parse XML
-    ↓
-Display Open Ports
+- Display Open Ports
